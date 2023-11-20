@@ -1,7 +1,5 @@
 # 404-Error-Page
 
-# Custom 404 Page
-
 ## Overview
 
 This project provides a simple and visually appealing custom 404 error page created with HTML and CSS. Instead of the default browser 404 page, users will encounter a more engaging and friendly message when they navigate to a non-existent page on your website.
@@ -31,10 +29,10 @@ Feel free to customize the content, styles, and images to match the look and fee
 
 ## Credits
 
-This custom 404 page was created by [OLUWAFEMI KOLADE]. Feel free to modify and use it in your projects.
+This custom 404 page was created by OLUWAFEMI KOLADE. Feel free to modify and use it in your projects.
 
 If you have any questions or issues, please [create an issue](https://github.com/kolade1024/404_page/issues) on the GitHub repository.
 
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://404-page-opal.vercel.app/)

@@ -22,14 +22,14 @@ This project provides a simple and visually appealing custom 404 error page crea
 
 ## Customization
 
-Feel free to customize the content, styles, and images to match the look and feel of your website.
+To customize the content, styles, and images to match the look and feel of your website.
 
 - Replace the `404_img.JPG` with your own image.
 - Adjust the colors, fonts, and sizes in the CSS file to match your website's theme.
 
 ## Credits
 
-This custom 404 page was created by OLUWAFEMI KOLADE. Feel free to modify and use it in your projects.
+This custom 404 page was created by OLUWAFEMI KOLADE. Modifiable and allowed to be used  in your projects.
 
 If you have any questions or issues, please [create an issue](https://github.com/kolade1024/404_page/issues) on the GitHub repository.
 

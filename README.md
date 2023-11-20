@@ -6,7 +6,7 @@
 
 This project provides a simple and visually appealing custom 404 error page created with HTML and CSS. Instead of the default browser 404 page, users will encounter a more engaging and friendly message when they navigate to a non-existent page on your website.
 
-![Custom 404 Page](preview.png)
+![screenshot](404_img.JPG)
 
 ## Features
 
